@@ -24,8 +24,6 @@
     <a style="padding-right:8px;" href="https://expressjs.com" target="_blank"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="express" width="60" height="60"/> </a>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cd81fc6-8e37-4530-a413-38b9bfe4caf9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <br/>
 
 ## 📜 Certifications
