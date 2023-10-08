@@ -32,4 +32,4 @@
 
 - July 04, 2023: [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/3dc6a23d-be1d-48ca-9091-1acce6f3f774/public_url)
 
-- Jul 25, 2023: [SmartInternz certified - Salesforce Administrator](https://smartinternz.com/internships/salesforce_ext/7fe7bd84b1b7c7c1fe65a94802e0f31e)
+- July 25, 2023: [SmartInternz certified - Salesforce Administrator](https://smartinternz.com/internships/salesforce_ext/7fe7bd84b1b7c7c1fe65a94802e0f31e)
